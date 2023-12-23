@@ -1,6 +1,6 @@
 # Template for building Node.js CLI projects with TypeScript
 
-![GitHub License](https://img.shields.io/github/license/dangreaves/template-typescript-cli)
+![GitHub License](https://img.shields.io/github/license/dangreaves/template-cli)
 
 This template is a starting point for building Node.js CLI projects with TypeScript.
 
